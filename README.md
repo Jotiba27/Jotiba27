@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Jotiba Rankhamb
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science Concepts
-- 💞️ I’m looking to collaborate on Data Science Domain Projects
-- 📫 How to reach me jotiba2712@gmail.com
-- 😄 Pronouns: ...
+# 👋 Hi, I’m Jotiba Rankhamb 
+:blue_square:Linkedin : www.linkedin.com/in/jotibarankhamb27         
+:email: Mail : jotiba2712@gmail.com
+
+- 👀 I’m a Data Enthusiast.
 - ⚡ Fun fact: Anime Geek.
 
 <!---
