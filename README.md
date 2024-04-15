@@ -2,6 +2,7 @@
 :blue_square:Linkedin : www.linkedin.com/in/jotibarankhamb27         
 :email: Mail : jotiba2712@gmail.com
 
+- Hire me(FreeLancer) : https://www.freelancer.in/u/jotiba2712?sb=t
 - 👀 I’m a Data Enthusiast.
 - ⚡ Fun fact: Anime Geek.
 
