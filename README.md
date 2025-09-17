@@ -4,7 +4,6 @@
 
 - Hire me(FreeLancer) : https://www.freelancer.in/u/jotiba2712?sb=t
 - 👀 I’m a Data Enthusiast.
-- ⚡ Fun fact: Anime Geek.
 
 <!---
 Jotiba27/Jotiba27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
